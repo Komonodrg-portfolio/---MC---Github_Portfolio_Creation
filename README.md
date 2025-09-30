@@ -35,6 +35,20 @@ Colleages, Onward.
 </em><br>
 </details>
 
+---
+## Setup Instructions
+
+1) Navigate to github.com and `signup` to create and account:<br>
+
+<img src="images/Github1.png" width="400"/>  <img src="images/Github2.png" width="400"/><br>
+
+2) Create 1st Repository, making sure to `click` on `Create Readme`:
+
+<img src="images/Github3.png" width="400"/>  <img src="images/Github4.png" width="400"/><br>
+
+
+
+
 
 ## 📂 Repository Structure
 ```plaintext
