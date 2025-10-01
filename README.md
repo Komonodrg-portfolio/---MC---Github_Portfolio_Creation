@@ -47,7 +47,7 @@ Colleages, Onward.</em>
 
 <img src="images/GIthub3.png" width="400"/> <img src="images/GIthub4.png" width="400"/><br>
 
-3) Now with first repo created, it's time to edit the readme file.  This will be the landing page for your main github page.  I followed a great tutorial on [youtube](https://www.youtube.com/watch?v=zgqfWLHNKLk) on how to efficiently create/edit this readme.  Following this example, `expand` the markdown code from his tutorial and paste it into your readme & `Commit changes...`:<br>
+3) Now with first repo created, it's time to edit the readme file.  This will be the landing page for your main github page.  I followed a great tutorial on [youtube](https://www.youtube.com/watch?v=zgqfWLHNKLk) on how to efficiently create/edit this readme.  Following this example, `copy & paste` the markdown code from his tutorial and paste it into your readme & `Commit changes...`:<br>
      
 <h4><b>Markdown:</b></h4>
    
@@ -110,7 +110,15 @@ Here are some ideas to get you started:
 
 <img src="images/GIthub5.png" width="400"/>  <img src="images/GIthub6.png" width="400"/><br>
 
+4. Now with a solid base, it's time to edit the file.  You can edit the readme by toggling between `edit` & `preview` buttons on page.  I recommend using either one of these two applications for markdown/html rendering:
+   - Joplin
+   - VS Code
+  
+   Installation instructions for both can be found [here](https://chatgpt.com/s/t_68dc7e0aff088191ad988a777cd6b397).  Sticking to the command line (Termimal) steps works best.
 
+   <img src="images/GIthub7.png" width="400"/>  <img src="images/GIthub8.png" width="400"/><br>
+
+   
 
 ## 📂 Repository Structure
 ```plaintext
