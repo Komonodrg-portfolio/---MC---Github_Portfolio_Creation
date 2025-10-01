@@ -127,6 +127,7 @@ Colleages, Onward.</em>
 
    After editing the screenshot taken and saving the .png image file, I typically create an `images/` folder on the repo page and upload my created images to it.  I proceed to reference the image(s) using markdown syntax to have it display in on my Readme:
 
+ <img src="images/GIthub9.png" width="400"/>  <img src="images/GIthub10.png" width="400"/><br>
    
 
    
