@@ -119,7 +119,7 @@ Colleages, Onward.</em>
 
    <img src="images/GIthub7.png" width="400"/>  <img src="images/GIthub8.png" width="400"/><br>
 
-5.  Getting comfortable to [Markdown and HTML syntax](https://chatgpt.com/s/t_68dc8873f4c4819197ded29dcc79108c) is key for properly formating your readme files.  Practice makes perfect.
+5.  Getting comfortable with [Markdown and HTML syntax](https://chatgpt.com/s/t_68dc8873f4c4819197ded29dcc79108c) is key for properly formating your readme files.  Practice makes perfect.
 
 6.  Adding images to your readme will further allow you to create a more engaging portfolio.  2  applications I use to assist in implementing pictures in my projects are:
    - [Flameshot](https://chatgpt.com/s/t_68dc8a3f95a08191910a402d0d600b85)
@@ -132,12 +132,3 @@ Colleages, Onward.</em>
 
    
 
-## 📂 Repository Structure
-```plaintext
-.
-├── docs/                   # Assets and diagrams
-├── screenshots/            # Example site previews
-├── src/                    # Source HTML/CSS/JS (if not pure Markdown)
-├── .github/                # GitHub workflow automation (optional)
-├── index.md / index.html   # Landing page
-└── README.md               # Project documentation (this file)
