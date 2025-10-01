@@ -119,7 +119,15 @@ Colleages, Onward.</em>
 
    <img src="images/GIthub7.png" width="400"/>  <img src="images/GIthub8.png" width="400"/><br>
 
-5.  
+5.  Getting comfortable to [Markdown and HTML syntax](https://chatgpt.com/s/t_68dc8873f4c4819197ded29dcc79108c) is key for properly formating your readme files.  Practice makes perfect.
+
+6.  Adding images to your readme will further allow you to create a more engaging portfolio.  2  applications I use to assist in implementing pictures in my projects are:
+   - [Flameshot](https://chatgpt.com/s/t_68dc8a3f95a08191910a402d0d600b85)
+   - [GIMP](https://chatgpt.com/s/t_68dc8bba0354819199fd1ed46565a81e)
+
+   After editing the screenshot taken and saving the .png image file, I typically create an `images/` folder on the repo page and upload my created images to it.  I proceed to reference the image(s) using markdown syntax to have it display in on my Readme:
+
+   
 
    
 
