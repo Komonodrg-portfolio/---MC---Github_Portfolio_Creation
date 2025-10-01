@@ -129,6 +129,16 @@ Colleages, Onward.</em>
 
  <img src="images/GIthub9.png" width="400"/>  <img src="images/GIthub10.png" width="400"/><br>
    
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Tik Tok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[tiktok]: https://tiktok.com/joshmadakor
+[youtube]: https://www.youtube.com/@EvenSteveTech
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://www.linkedin.com/in/steven-komono-71790197/
    
 
