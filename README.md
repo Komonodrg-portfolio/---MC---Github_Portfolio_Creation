@@ -18,11 +18,12 @@ This repository serves as both a **live portfolio site** and a **guide for other
 | Tool       | Purpose                              |
 |------------|--------------------------------------|
 | GitHub / Github Pages     | Free static site hosting         |
-| Markdown / HTML / CSS | Content structure and styling         |
-| Jekyll / Static Site Generators (optional)   | Theme management          |
+| Markdown / HTML  | Content structure and styling         |
+| GIMP   | Image Editing          |
+| Flameshot   | Screen / Image Capturing & Editing          |
 | Git  | Version control and collaboration                      |
-| VS Code   | Version control and collaboration          |
-| Joplin / Onenote  |  Note Taking / Markdown Rendering  | 
+| Joplin / VS Code   | Note taking / Version control and collaboration          |
+|Onenote  | Microsoft offering for Note Taking   | 
 
 
 <details>
@@ -93,30 +94,32 @@ Colleages, Onward.</em>
     [linkedin]: https://linkedin.com/in/joshmadakor
     ```
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <!--
+    **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - 🔭 I’m currently working on ...
+    - 🌱 I’m currently learning ...
+    - 👯 I’m looking to collaborate on ...
+    - 🤔 I’m looking for help with ...
+    - 💬 Ask me about ...
+    - 📫 How to reach me: ...
+    - 😄 Pronouns: ...
+    - ⚡ Fun fact: ...
+    -->
 
 <img src="images/GIthub5.png" width="400"/>  <img src="images/GIthub6.png" width="400"/><br>
 
 4. Now with a solid base, it's time to edit the file.  You can edit the readme by toggling between `edit` & `preview` buttons on page.  I recommend using either one of these two applications for markdown/html rendering:
-   - Joplin
+   - Joplin  (my personal favorite for this, as well as replacing OneNote as linux option for note taking)
    - VS Code
   
    Installation instructions for both can be found [here](https://chatgpt.com/s/t_68dc7e0aff088191ad988a777cd6b397).  Sticking to the command line (Termimal) steps works best.
 
    <img src="images/GIthub7.png" width="400"/>  <img src="images/GIthub8.png" width="400"/><br>
+
+5.  
 
    
 
