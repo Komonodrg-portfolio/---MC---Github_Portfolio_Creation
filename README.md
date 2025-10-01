@@ -48,11 +48,12 @@ Colleages, Onward.</em>
 
 <img src="images/GIthub3.png" width="400"/> <img src="images/GIthub4.png" width="400"/><br>
 
-3) Now with first repo created, it's time to edit the readme file.  This will be the landing page for your main github page.  I followed a great tutorial on [youtube](https://www.youtube.com/watch?v=zgqfWLHNKLk) on how to efficiently create/edit this readme.  Following this example, `copy & paste` the markdown code from his tutorial and paste it into your readme & `Commit changes...`:<br>
-     
-<h4><b>Markdown:</b></h4>
-   
-      
+3) Now with first repo created, it's time to edit the readme file.  This will be the landing page for your main github page.  I followed a great tutorial on [youtube](https://www.youtube.com/watch?v=zgqfWLHNKLk) on how to efficiently create/edit this readme.  Following this example, `copy & paste` the markdown code from his tutorial and paste it into your readme & `Commit changes...`:
+
+<details>
+ <summary><h4>Markdown:</h4></summary>
+  <br> 
+  
     <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
     <h2>👨‍💻 Software Development Projects:</h2>
@@ -108,6 +109,7 @@ Colleages, Onward.</em>
     - 😄 Pronouns: ...
     - ⚡ Fun fact: ...
     -->
+   </details> 
 
 <img src="images/GIthub5.png" width="400"/>  <img src="images/GIthub6.png" width="400"/><br>
 
